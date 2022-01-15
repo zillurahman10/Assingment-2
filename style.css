@@ -1,0 +1,39 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.small-heading{
+padding-left: 50px;
+padding-top: 50px;
+}
+.big-heading{
+    padding-left: 50px;
+    padding-top: 100px;
+}
+#big-heading{
+    font-size: 50px;
+}
+.one-main{
+    display: flex;
+}
+.main-camera{
+    padding-left: 200px;
+}
+.prebook{
+    text-decoration: none;
+    color: white;
+    background-color:#03C6C7;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+/* .camera-info{
+    margin-bottom: 20px;
+} */
+.pc{
+    text-align: center;
+    margin-top: px;
+}
+.dis-grid{
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
