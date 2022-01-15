@@ -8,6 +8,8 @@ padding-top: 50px;
 }
 .ip{
     padding-right: 700px;
+    font-size: 60px;
+    color: goldenrod;
 }
 .hpoc{
     margin-left: 30px;
@@ -107,4 +109,9 @@ footer{
     grid-template-columns: repeat(1, 1fr);
     grid-row-gap: 10px;
    } 
+}
+.fa-star filled{
+    color: transparent;
+    background: orange;
+    -webkit-background-clip: text;
 }
