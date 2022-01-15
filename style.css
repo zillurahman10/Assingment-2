@@ -7,7 +7,7 @@ padding-left: 50px;
 padding-top: 50px;
 }
 .ip{
-    padding-right: 700px;
+    padding-right: 600px;
     font-size: 60px;
     color: goldenrod;
 }
@@ -16,6 +16,9 @@ padding-top: 50px;
 }
 .fa-shopping-cart{
     margin-left: 30px;
+    margin-right: 30px;
+}
+.fa-user-plus{
     margin-right: 30px;
 }
 .df{
